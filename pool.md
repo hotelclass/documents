@@ -1,4 +1,4 @@
-# Piscina del último piso mod mod mod mod mod mod
+# Piscina del último piso mod mod mod mod mod mod mod
 ```yaml
 properties:
   audience: huéspedes
