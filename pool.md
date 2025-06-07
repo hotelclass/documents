@@ -1,4 +1,4 @@
-# Piscina del último piso MOD
+# Piscina del último piso NUEVA
 ```yaml
 properties:
   audience: huéspedes
@@ -18,7 +18,7 @@ La piscina está disponible de 8:00 a 22:00 todos los días.
 Por razones de mantenimiento, puede haber cierres ocasionales los miércoles por la tarde.
 
 
-# Piscina del último piso
+# Piscina del último piso REPETIDA
 ```yaml
 audience: personal
 role: mantenimiento
