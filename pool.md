@@ -1,0 +1,52 @@
+# Piscina del último piso mod mod mod mod
+```yaml
+properties:
+  audience: huéspedes
+  role: general
+
+functions:
+  - name: getWeather
+    description: Devuelve el clima actual para una ubicación
+    parameters:
+      - name: location
+        type: string
+        required: true
+    endpoint: https://api.miempresa.com/weather
+```
+## Horarios
+La piscina está disponible de 8:00 a 22:00 todos los días.  
+Por razones de mantenimiento, puede haber cierres ocasionales los miércoles por la tarde.
+
+
+# Piscina del último piso
+```yaml
+audience: personal
+role: mantenimiento
+```
+
+## Normas de uso
+Es obligatorio ducharse antes de ingresar.  
+No se permite ingresar comida ni bebidas alcohólicas.  
+Niños menores deben estar acompañados por un adulto.
+
+
+# Piscina del último piso
+```yaml
+audience: personal
+role: mantenimiento
+```
+## Mantenimiento diario
+El proceso de limpieza comienza a las 5:00 y debe finalizar antes de las 7:30.  
+Utilizar únicamente productos aprobados por la administración.
+
+# Piscina para niños
+```yaml
+audience: huéspedes
+role: general
+```
+
+## Reglas de seguridad
+El uso de flotadores está permitido solo en la zona infantil.  
+Un socorrista estará presente de 10:00 a 18:00.  
+Evitar correr en el área circundante a la piscina.
+
