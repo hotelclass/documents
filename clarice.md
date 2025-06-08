@@ -23,3 +23,5 @@ Martes: Carré de cerdo con puré de manzanas
 Miércoles: Ensalada Waldorf
 Jueves: Feijuada
 Viernes: Pescado
+Sábado: Mariscos
+
