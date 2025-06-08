@@ -11,12 +11,15 @@ functions:
       - name: day
         type: string
         required: true
-    endpoint: https://api.hotelclass.com/claricemenu
+    endpoint: https://api.hotelclass.com/clarice/menu
 ```
+## Ubicación
+El restaurante está ubicado en el cuarto piso.
+
 ## Horarios
 El Restaurante permanecerá abierto todos los días desde las 8:30 hasta las 22 horas.  
 
-##Menu Promocional
+## Menu Promocional
 Incluye copa de vino o gaseosa y café.
 Lunes: Pollo al horno con papas.
 Martes: Carré de cerdo con puré de manzanas
