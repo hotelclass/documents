@@ -27,4 +27,5 @@ Miércoles: Ensalada Waldorf
 Jueves: Feijuada
 Viernes: Pescado
 Sábado: Mariscos
+Domingo: Milanesa con papas
 
