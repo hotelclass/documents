@@ -17,6 +17,8 @@ functions:
 La piscina está disponible de 8:00 a 22:00 todos los días.  
 Por razones de mantenimiento, puede haber cierres ocasionales los miércoles por la tarde.
 
+## Reservas
+Es conveniente pero no obligatorio reservar la piscina antes de concurrir.
 
 # Piscina del último piso REPEAT X
 ```yaml
