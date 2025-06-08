@@ -1,17 +1,17 @@
-# Piscina del último piso NEW
+# Piscina del último piso
 ```yaml
 properties:
   audience: huéspedes
   role: general
 
 functions:
-  - name: getWeather
-    description: Devuelve el clima actual para una ubicación
+  - name: reserve
+    description: Reservar piscina
     parameters:
-      - name: location
+      - name: day
         type: string
         required: true
-    endpoint: https://api.miempresa.com/weather
+    endpoint: https://api.hotelclass.com/pool/reserve
 ```
 ## Horarios
 La piscina está disponible de 8:00 a 22:00 todos los días.  
