@@ -96,7 +96,21 @@ Registrar las tareas realizadas en el sistema de mantenimiento.
 
 11. Completar checklist y registrar en bitácora digital.
 
+## Protocolos especiales
+En caso de lluvia intensa, suspender uso y evaluar limpieza adicional.
 
+Informar a recepción si el mantenimiento impide la apertura a horario.
+
+Supervisar que todos los productos estén correctamente almacenados.
+
+## Auditoría y control
+El supervisor de mantenimiento debe realizar una revisión semanal y verificar que:
+
+Se sigan los pasos del procedimiento.
+
+Los productos utilizados estén registrados.
+
+No haya reclamos de huéspedes relacionados con la limpieza o el estado del agua.
  
 | Header 1 | Header 2 | Header 3 |
 | :------- | :------: | -------: |
