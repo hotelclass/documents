@@ -64,7 +64,7 @@ En caso de accidente, dirigirse al puesto de primeros auxilios más cercano.
 ```yaml
 properties:
     audience: hotel
-    role:pool
+    role:pool-maintenance
 ```
 ## Mantenimiento diario
 
@@ -97,6 +97,7 @@ Registrar las tareas realizadas en el sistema de mantenimiento.
 11. Completar checklist y registrar en bitácora digital.
 
 ## Protocolos especiales
+
 En caso de lluvia intensa, suspender uso y evaluar limpieza adicional.
 
 Informar a recepción si el mantenimiento impide la apertura a horario.
@@ -111,11 +112,6 @@ Se sigan los pasos del procedimiento.
 Los productos utilizados estén registrados.
 
 No haya reclamos de huéspedes relacionados con la limpieza o el estado del agua.
- 
-| Header 1 | Header 2 | Header 3 |
-| :------- | :------: | -------: |
-| Data A1  | Data B1  | Data C1  |
-| Data A2  | Data B2  | Data C2  |
 
 
 
